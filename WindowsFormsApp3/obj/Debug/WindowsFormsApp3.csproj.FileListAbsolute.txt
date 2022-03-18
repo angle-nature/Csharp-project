@@ -1,0 +1,15 @@
+E:\C#项目\WindowsFormsApp3\bin\Debug\Database1.mdf
+E:\C#项目\WindowsFormsApp3\bin\Debug\Database1_log.ldf
+E:\C#项目\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\C#项目\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\C#项目\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\C#项目\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\C#项目\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\C#项目\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\C#项目\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\C#项目\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\C#项目\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\C#项目\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\C#项目\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\C#项目\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+E:\C#项目\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources

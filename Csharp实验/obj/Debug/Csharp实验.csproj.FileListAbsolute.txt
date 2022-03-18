@@ -1,0 +1,7 @@
+E:\C#项目\Csharp实验\bin\Debug\Csharp实验.exe.config
+E:\C#项目\Csharp实验\bin\Debug\Csharp实验.exe
+E:\C#项目\Csharp实验\bin\Debug\Csharp实验.pdb
+E:\C#项目\Csharp实验\obj\Debug\Csharp实验.csprojAssemblyReference.cache
+E:\C#项目\Csharp实验\obj\Debug\Csharp实验.csproj.CoreCompileInputs.cache
+E:\C#项目\Csharp实验\obj\Debug\Csharp实验.exe
+E:\C#项目\Csharp实验\obj\Debug\Csharp实验.pdb

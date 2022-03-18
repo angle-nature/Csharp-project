@@ -1,0 +1,7 @@
+E:\C#项目\FileStudy\bin\Debug\FileStudy.exe.config
+E:\C#项目\FileStudy\bin\Debug\FileStudy.exe
+E:\C#项目\FileStudy\bin\Debug\FileStudy.pdb
+E:\C#项目\FileStudy\obj\Debug\FileStudy.csprojAssemblyReference.cache
+E:\C#项目\FileStudy\obj\Debug\FileStudy.csproj.CoreCompileInputs.cache
+E:\C#项目\FileStudy\obj\Debug\FileStudy.exe
+E:\C#项目\FileStudy\obj\Debug\FileStudy.pdb

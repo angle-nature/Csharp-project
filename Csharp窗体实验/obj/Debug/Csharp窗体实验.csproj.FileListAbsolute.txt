@@ -1,0 +1,10 @@
+E:\C#项目\Csharp窗体实验\bin\Debug\Csharp窗体实验.exe.config
+E:\C#项目\Csharp窗体实验\bin\Debug\Csharp窗体实验.exe
+E:\C#项目\Csharp窗体实验\bin\Debug\Csharp窗体实验.pdb
+E:\C#项目\Csharp窗体实验\obj\Debug\Csharp窗体实验.csprojAssemblyReference.cache
+E:\C#项目\Csharp窗体实验\obj\Debug\Csharp窗体实验.Form1.resources
+E:\C#项目\Csharp窗体实验\obj\Debug\Csharp窗体实验.Properties.Resources.resources
+E:\C#项目\Csharp窗体实验\obj\Debug\Csharp窗体实验.csproj.GenerateResource.cache
+E:\C#项目\Csharp窗体实验\obj\Debug\Csharp窗体实验.csproj.CoreCompileInputs.cache
+E:\C#项目\Csharp窗体实验\obj\Debug\Csharp窗体实验.exe
+E:\C#项目\Csharp窗体实验\obj\Debug\Csharp窗体实验.pdb

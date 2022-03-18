@@ -1,0 +1,7 @@
+E:\C#项目\委托\bin\Debug\委托.exe.config
+E:\C#项目\委托\bin\Debug\委托.exe
+E:\C#项目\委托\bin\Debug\委托.pdb
+E:\C#项目\委托\obj\Debug\委托.csprojAssemblyReference.cache
+E:\C#项目\委托\obj\Debug\委托.csproj.CoreCompileInputs.cache
+E:\C#项目\委托\obj\Debug\委托.exe
+E:\C#项目\委托\obj\Debug\委托.pdb

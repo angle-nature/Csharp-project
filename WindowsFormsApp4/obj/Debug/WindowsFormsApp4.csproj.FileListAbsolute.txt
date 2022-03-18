@@ -1,0 +1,10 @@
+E:\C#项目\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+E:\C#项目\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+E:\C#项目\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+E:\C#项目\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+E:\C#项目\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+E:\C#项目\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+E:\C#项目\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+E:\C#项目\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+E:\C#项目\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+E:\C#项目\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb

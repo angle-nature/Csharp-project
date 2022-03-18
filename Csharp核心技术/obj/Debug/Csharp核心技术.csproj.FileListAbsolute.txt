@@ -1,0 +1,7 @@
+E:\C#项目\Csharp核心技术\bin\Debug\Csharp核心技术.exe.config
+E:\C#项目\Csharp核心技术\bin\Debug\Csharp核心技术.exe
+E:\C#项目\Csharp核心技术\bin\Debug\Csharp核心技术.pdb
+E:\C#项目\Csharp核心技术\obj\Debug\Csharp核心技术.csprojAssemblyReference.cache
+E:\C#项目\Csharp核心技术\obj\Debug\Csharp核心技术.csproj.CoreCompileInputs.cache
+E:\C#项目\Csharp核心技术\obj\Debug\Csharp核心技术.exe
+E:\C#项目\Csharp核心技术\obj\Debug\Csharp核心技术.pdb

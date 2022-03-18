@@ -1,0 +1,7 @@
+E:\C#项目\工大租车管理系统\bin\Debug\工大租车管理系统.exe.config
+E:\C#项目\工大租车管理系统\bin\Debug\工大租车管理系统.exe
+E:\C#项目\工大租车管理系统\bin\Debug\工大租车管理系统.pdb
+E:\C#项目\工大租车管理系统\obj\Debug\工大租车管理系统.csprojAssemblyReference.cache
+E:\C#项目\工大租车管理系统\obj\Debug\工大租车管理系统.csproj.CoreCompileInputs.cache
+E:\C#项目\工大租车管理系统\obj\Debug\工大租车管理系统.exe
+E:\C#项目\工大租车管理系统\obj\Debug\工大租车管理系统.pdb
